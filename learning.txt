@@ -12,8 +12,14 @@ ROUTES GROUPING AND PRIVATE FOLDERS
      just add _ before the folder name
 
 
-INTERCEPTING AND PARALLEL ROUTES
+INTERCEPTING ROUTES
 
     INTERCEPTING routes will let you show a page inside a current layout instead on navigating away to another page 
     for example photo gallery app 
     when you click on an image then instead of redirecting to /gallery/{id} we will show the image in the current layout kind of like a preview page
+
+    HOW TO ??
+    (.) same level
+    (..) one level up 
+    (..)(..) two levels up
+    (...) from root level
