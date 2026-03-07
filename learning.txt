@@ -1,0 +1,19 @@
+ROUTES GROUPING AND PRIVATE FOLDERS
+    Now when you have to don't want the users to see your file structure, for example, if you're using auth as a folder, you don't want the users to know that all of your authentication data is in the auth folder itself. So what you can do here is that you can use route grouping and private folders.You only want them to see the /signup nor /auth/signup
+
+    HOW TO ??
+    just add () around auth folder name
+
+
+    route grouping is a way to organize without showing the file structure to the users
+    PRIVATE FOLDERS 
+    next js ignores in this in the routing
+    HOW TO??
+     just add _ before the folder name
+
+
+INTERCEPTING AND PARALLEL ROUTES
+
+    INTERCEPTING routes will let you show a page inside a current layout instead on navigating away to another page 
+    for example photo gallery app 
+    when you click on an image then instead of redirecting to /gallery/{id} we will show the image in the current layout kind of like a preview page
