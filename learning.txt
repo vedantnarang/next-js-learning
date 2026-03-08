@@ -23,3 +23,12 @@ INTERCEPTING ROUTES
     (..) one level up 
     (..)(..) two levels up
     (...) from root level
+
+
+PARALLEL ROUTES
+    they let us render multiple pages at the same time side by side , inside one layout
+    for example in leetcode problem statement and the IDE where you write code these are rendered at the same time in the same layout 
+
+    HOW TO??
+    @ before the folder name and render them in the page.js of the parent route
+
