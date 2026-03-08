@@ -59,5 +59,11 @@ SERVER COMPONENTS
      no interactivity 
 
 
+CLIENT COMPONENTS
+    
+when teh componetents are run in the browser instead of the server 
+used when we need interactivity 
 
+HOW TO ??
+"use client" at the top of the file 
     
