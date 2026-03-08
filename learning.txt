@@ -32,3 +32,14 @@ PARALLEL ROUTES
     HOW TO??
     @ before the folder name and render them in the page.js of the parent route
 
+    In parallel routes it was showing an error in the current @ configuration with /dashboard-main/tab1(404 error) why is that ?
+    this is because it is currently bieng render in the /dashboard-main routeit is not a seperate rouet so to rectify that we will make a new route inside @tab1 and @tab2
+
+
+UNMATCHED ROUTES
+    now we can see the route but if your reload then it shows an error ...that is beacuse of unmatched routes to rectify that error you need to add a DEFAULT.JS file 
+
+
+
+CUSTOM 404 PAGE 
+    create a not-found.js file in the folder APPS 
