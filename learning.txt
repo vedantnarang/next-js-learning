@@ -43,3 +43,21 @@ UNMATCHED ROUTES
 
 CUSTOM 404 PAGE 
     create a not-found.js file in the folder APPS 
+
+
+SERVER COMPONENTS
+     by default each and every layout ,page is server component 
+     any backend related task with node js like any api calls
+
+    ADVANTAGES
+     any kind of data fetching is securely doen on teh server 
+     can directly query databases 
+     smaller bundle size and shorter load times
+    LIMITATIONS 
+     cant use browser APIS 
+     cant use react hookjs 
+     no interactivity 
+
+
+
+    
