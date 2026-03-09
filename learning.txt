@@ -61,9 +61,15 @@ SERVER COMPONENTS
 
 CLIENT COMPONENTS
     
-when teh componetents are run in the browser instead of the server 
-used when we need interactivity 
+    when teh componetents are run in the browser instead of the server 
+    used when we need interactivity 
 
-HOW TO ??
-"use client" at the top of the file 
+    HOW TO ??
+    "use client" at the top of the file 
+
+BACKEND ROUTE HANDLERS  
+    make route.js in a route 
+    but if you make page.js and route.js in the same route then it will give you an error
+    conflicting route error
+
     
