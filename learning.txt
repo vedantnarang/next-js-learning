@@ -73,3 +73,6 @@ BACKEND ROUTE HANDLERS
     conflicting route error
 
     
+    PUT AND PATCH 
+    PUT is used when you are looking to update your entire data 
+    PATCH is used when we want to update a part of the data 
