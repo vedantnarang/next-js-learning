@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 
 
-let users=[
+export let users=[
     { 
         name: "Alice Johnson",
          dob: "1990-05-15",
@@ -14,8 +14,8 @@ let users=[
     },
     { 
         name: "Charlie Davis",
-         dob: "1992-03-10",
-          phone: "555-0103" 
+        dob: "1992-03-10",
+        phone: "555-0103" 
     },
 
 ];
